@@ -35,3 +35,8 @@ This project involves comprehensive data analysis and application development us
 ## Author Information
 ### [Hafida Belayd](https://www.linkedin.com/in/hafida-belayd/)
 
+## License
+### [LICENSE](LICENSE)
+
+
+
